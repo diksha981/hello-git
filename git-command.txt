@@ -1,0 +1,5 @@
+git init - to initialize
+git status - to check status
+git add - tell git to add to track your change 
+git commit - tell git to create checkpoint 
+git push - to upload project to cloud
